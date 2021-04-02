@@ -1,19 +1,19 @@
 {
   "files": {
     "main.css": "/recipes-app/static/css/main.61bc8b3b.chunk.css",
-    "main.js": "/recipes-app/static/js/main.814ed180.chunk.js",
-    "main.js.map": "/recipes-app/static/js/main.814ed180.chunk.js.map",
+    "main.js": "/recipes-app/static/js/main.7c705e45.chunk.js",
+    "main.js.map": "/recipes-app/static/js/main.7c705e45.chunk.js.map",
     "runtime-main.js": "/recipes-app/static/js/runtime-main.60965406.js",
     "runtime-main.js.map": "/recipes-app/static/js/runtime-main.60965406.js.map",
     "static/css/2.7e32abc8.chunk.css": "/recipes-app/static/css/2.7e32abc8.chunk.css",
-    "static/js/2.46f99f43.chunk.js": "/recipes-app/static/js/2.46f99f43.chunk.js",
-    "static/js/2.46f99f43.chunk.js.map": "/recipes-app/static/js/2.46f99f43.chunk.js.map",
+    "static/js/2.f81f552f.chunk.js": "/recipes-app/static/js/2.f81f552f.chunk.js",
+    "static/js/2.f81f552f.chunk.js.map": "/recipes-app/static/js/2.f81f552f.chunk.js.map",
     "index.html": "/recipes-app/index.html",
-    "precache-manifest.21c34002bcb2839cd77e04c451e55da2.js": "/recipes-app/precache-manifest.21c34002bcb2839cd77e04c451e55da2.js",
+    "precache-manifest.6951f023f5dddd88c5d4247f65ec0964.js": "/recipes-app/precache-manifest.6951f023f5dddd88c5d4247f65ec0964.js",
     "service-worker.js": "/recipes-app/service-worker.js",
     "static/css/2.7e32abc8.chunk.css.map": "/recipes-app/static/css/2.7e32abc8.chunk.css.map",
     "static/css/main.61bc8b3b.chunk.css.map": "/recipes-app/static/css/main.61bc8b3b.chunk.css.map",
-    "static/js/2.46f99f43.chunk.js.LICENSE.txt": "/recipes-app/static/js/2.46f99f43.chunk.js.LICENSE.txt",
+    "static/js/2.f81f552f.chunk.js.LICENSE.txt": "/recipes-app/static/js/2.f81f552f.chunk.js.LICENSE.txt",
     "static/media/blackHeartIcon.svg": "/recipes-app/static/media/blackHeartIcon.b8913346.svg",
     "static/media/drinkIcon.svg": "/recipes-app/static/media/drinkIcon.f87c47c3.svg",
     "static/media/exploreIcon.svg": "/recipes-app/static/media/exploreIcon.157945ff.svg",
@@ -26,8 +26,8 @@
   "entrypoints": [
     "static/js/runtime-main.60965406.js",
     "static/css/2.7e32abc8.chunk.css",
-    "static/js/2.46f99f43.chunk.js",
+    "static/js/2.f81f552f.chunk.js",
     "static/css/main.61bc8b3b.chunk.css",
-    "static/js/main.814ed180.chunk.js"
+    "static/js/main.7c705e45.chunk.js"
   ]
 }
