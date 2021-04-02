@@ -2,6 +2,7 @@
   "name": "recipes-app",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://jorgehsosiro.github.io/recipes-app",
   "dependencies": {
     "@brainhubeu/react-carousel": "^1.19.26",
     "@testing-library/jest-dom": "^4.2.4",
@@ -34,7 +35,9 @@
     "build": "react-scripts build",
     "test": "react-scripts test",
     "test-coverage": "react-scripts test --coverage --watchAll=false",
-    "eject": "react-scripts eject"
+    "eject": "react-scripts eject",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build",
   },
   "eslintConfig": {
     "extends": [
